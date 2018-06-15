@@ -10,7 +10,7 @@
  */
 char firstNonRepeatingChar (char sentence[], int length)
 {
-    printf("\nfirstNonRepeatingChar::START: %s, %d\n", s, length);
+    printf("\nfirstNonRepeatingChar::START: %s, %d\n", sentence, length);
     
     // TODO: YOUR CODE HERE!
     
